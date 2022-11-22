@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    background: linear-gradient(#4eb3c7 0%,#47ba71 100%);
+}
+img {
+    width: 280px;
+}
+
+.links{
+    hover:rgb(34, 192, 245);
+}
